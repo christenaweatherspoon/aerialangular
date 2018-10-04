@@ -4,3 +4,4 @@ This is an application I built using MongoDB, Mongoose, Express, Angular and Nod
 
 
 There is not data in the MongoDB database-- this was purely to see how to set up a MEAN stack application and work with AngularJS for the first time.
+ .
